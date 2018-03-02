@@ -1,0 +1,12 @@
+share/net-info/main.qml
+share/net-info/main.qml.bak
+src/net-info/main.go
+src/net-info/phoneinterface.go
+clickable.json
+manifest.json
+net-info.apparmor
+net-info.desktop
+net-info.goproject
+net-info.png
+net-info.xcf
+README.md
